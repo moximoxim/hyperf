@@ -51,6 +51,7 @@ class Scanner
     public function __construct(ClassLoader $classloader, ScanConfig $scanConfig, ScanHandlerInterface $handler)
     {
         // 测试1
+        // 测试2
         $this->classloader = $classloader;
         $this->scanConfig = $scanConfig;
         $this->handler = $handler;
