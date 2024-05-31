@@ -52,6 +52,7 @@ class Scanner
     {
         // 测试1
         // 测试2
+        // 测试3
         $this->classloader = $classloader;
         $this->scanConfig = $scanConfig;
         $this->handler = $handler;
